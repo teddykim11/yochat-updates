@@ -1,8 +1,8 @@
 {
   "available": true,
-  "versionCode": 8,
-  "versionName": "0.8-dev",
-  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.8/Shukay-Chat-test.7.apk",
-  "sha256": "52562b87fc37ba1700de7001d1063a4d6eddf5380a30af7d6b7a6af48e02c259",
-  "notes": "Золотая галочка и подпись «Владелец» в профиле и переписке."
+  "versionCode": 9,
+  "versionName": "0.9-dev",
+  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.9/Shukay-Chat-test.8.apk",
+  "sha256": "106adea66e15808aa3d4f04fc580e2d84404c3ed9eb5d855c038ca13b5e8f773",
+  "notes": "Голосовые сообщения, фото, видео, файлы и документы. Повтор отправки после ошибки сети."
 }
