@@ -1,0 +1,8 @@
+{
+  "available": true,
+  "versionCode": 7,
+  "versionName": "0.7-dev",
+  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.7/Shukay-Chat-test.6.apk",
+  "sha256": "1987415dd8d95442ec306f0b332380944e90760b6599b756140ceab2aea16149",
+  "notes": "Галочки доставки и прочтения, редактирование имени и ника, фото профиля."
+}
