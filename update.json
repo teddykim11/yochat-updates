@@ -1,8 +1,8 @@
 {
   "available": true,
-  "versionCode": 10,
-  "versionName": "0.10-dev",
-  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.10/Shukay-Chat-test.9.apk",
-  "sha256": "96cbf97a6e5ef2cc65d646e755eeee6666eff019be0f50fefb965d556bce2136",
-  "notes": "Новый тёмный интерфейс, голосовые прямо в чате, смайлики, меню вложений снизу, отправка локации и контактов, галочки доставки и прочтения в списке чатов."
+  "versionCode": 11,
+  "versionName": "0.11-dev",
+  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.11/Shukay-Chat-test.10.apk",
+  "sha256": "9aa364e01b9e2d6c7db903da55c37f04938b14f6f9951212090b3a458bd58841",
+  "notes": "Пять разделов: Главная, Чаты, Shots, Поиск и Профиль. Публикации, истории, подписки и открытые группы. Голосовые отправляются при отпускании микрофона, настоящая звуковая волна, индикатор без процентов, светлая и тёмная темы."
 }
