@@ -1,8 +1,8 @@
 {
   "available": true,
-  "versionCode": 9,
-  "versionName": "0.9-dev",
-  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.9/Shukay-Chat-test.8.apk",
-  "sha256": "106adea66e15808aa3d4f04fc580e2d84404c3ed9eb5d855c038ca13b5e8f773",
-  "notes": "Голосовые сообщения, фото, видео, файлы и документы. Повтор отправки после ошибки сети."
+  "versionCode": 10,
+  "versionName": "0.10-dev",
+  "apkUrl": "https://github.com/teddykim11/yochat-updates/releases/download/v0.10/Shukay-Chat-test.9.apk",
+  "sha256": "96cbf97a6e5ef2cc65d646e755eeee6666eff019be0f50fefb965d556bce2136",
+  "notes": "Новый тёмный интерфейс, голосовые прямо в чате, смайлики, меню вложений снизу, отправка локации и контактов, галочки доставки и прочтения в списке чатов."
 }
